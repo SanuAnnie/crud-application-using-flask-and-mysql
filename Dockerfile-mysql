@@ -1,4 +1,4 @@
-FROM mysql:8.0.36-bookworm
+FROM mysql:8.0.39-bookworm
 
 ENV MYSQL_DATABASE crud_flask
 ENV MYSQL_USER dev
